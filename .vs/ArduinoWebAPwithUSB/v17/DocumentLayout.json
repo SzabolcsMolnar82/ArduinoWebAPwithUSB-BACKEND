@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\ZaroprojectArduinoRFID\\ArduinoWebAPwithUSB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5563295-970A-4EAE-BB75-05210CD17722}|ArduinoWebAPwithUSB.csproj|c:\\users\\pc\\source\\repos\\zaroprojectarduinorfid\\arduinowebapwithusb\\controllers\\cardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5563295-970A-4EAE-BB75-05210CD17722}|ArduinoWebAPwithUSB.csproj|solutionrelative:controllers\\cardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5563295-970A-4EAE-BB75-05210CD17722}|ArduinoWebAPwithUSB.csproj|c:\\users\\pc\\source\\repos\\zaroprojectarduinorfid\\arduinowebapwithusb\\entities\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5563295-970A-4EAE-BB75-05210CD17722}|ArduinoWebAPwithUSB.csproj|solutionrelative:entities\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5563295-970A-4EAE-BB75-05210CD17722}|ArduinoWebAPwithUSB.csproj|c:\\users\\pc\\source\\repos\\zaroprojectarduinorfid\\arduinowebapwithusb\\arduinowebapwithusb.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D5563295-970A-4EAE-BB75-05210CD17722}|ArduinoWebAPwithUSB.csproj|solutionrelative:arduinowebapwithusb.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\source\\repos\\ArduinoWebAPwithUSB\\Migrations\\20241116110418_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5563295-970A-4EAE-BB75-05210CD17722}|ArduinoWebAPwithUSB.csproj|c:\\users\\pc\\source\\repos\\zaroprojectarduinorfid\\arduinowebapwithusb\\context\\applicationdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5563295-970A-4EAE-BB75-05210CD17722}|ArduinoWebAPwithUSB.csproj|solutionrelative:context\\applicationdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5563295-970A-4EAE-BB75-05210CD17722}|ArduinoWebAPwithUSB.csproj|c:\\users\\pc\\source\\repos\\zaroprojectarduinorfid\\arduinowebapwithusb\\services\\cardreaderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5563295-970A-4EAE-BB75-05210CD17722}|ArduinoWebAPwithUSB.csproj|solutionrelative:services\\cardreaderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5563295-970A-4EAE-BB75-05210CD17722}|ArduinoWebAPwithUSB.csproj|c:\\users\\pc\\source\\repos\\zaroprojectarduinorfid\\arduinowebapwithusb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5563295-970A-4EAE-BB75-05210CD17722}|ArduinoWebAPwithUSB.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5563295-970A-4EAE-BB75-05210CD17722}|ArduinoWebAPwithUSB.csproj|c:\\users\\pc\\source\\repos\\zaroprojectarduinorfid\\arduinowebapwithusb\\migrations\\20241116111800_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5563295-970A-4EAE-BB75-05210CD17722}|ArduinoWebAPwithUSB.csproj|solutionrelative:migrations\\20241116111800_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5563295-970A-4EAE-BB75-05210CD17722}|ArduinoWebAPwithUSB.csproj|c:\\users\\pc\\source\\repos\\zaroprojectarduinorfid\\arduinowebapwithusb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D5563295-970A-4EAE-BB75-05210CD17722}|ArduinoWebAPwithUSB.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CardReaderServices.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ZaroprojectArduinoRFID\\ArduinoWebAPwithUSB\\Services\\CardReaderServices.cs",
+              "RelativeDocumentMoniker": "Services\\CardReaderServices.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ZaroprojectArduinoRFID\\ArduinoWebAPwithUSB\\Services\\CardReaderServices.cs",
+              "RelativeToolTip": "Services\\CardReaderServices.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAmwEEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T10:43:37.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ZaroprojectArduinoRFID\\ArduinoWebAPwithUSB\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ZaroprojectArduinoRFID\\ArduinoWebAPwithUSB\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T10:37:35.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ZaroprojectArduinoRFID\\ArduinoWebAPwithUSB\\Entities\\Card.cs",
+              "RelativeDocumentMoniker": "Entities\\Card.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ZaroprojectArduinoRFID\\ArduinoWebAPwithUSB\\Entities\\Card.cs",
+              "RelativeToolTip": "Entities\\Card.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T10:42:54.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArduinoWebAPwithUSB.http",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ZaroprojectArduinoRFID\\ArduinoWebAPwithUSB\\ArduinoWebAPwithUSB.http",
+              "RelativeDocumentMoniker": "ArduinoWebAPwithUSB.http",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ZaroprojectArduinoRFID\\ArduinoWebAPwithUSB\\ArduinoWebAPwithUSB.http",
+              "RelativeToolTip": "ArduinoWebAPwithUSB.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-16T10:51:38.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CardsController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ZaroprojectArduinoRFID\\ArduinoWebAPwithUSB\\Controllers\\CardsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CardsController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ZaroprojectArduinoRFID\\ArduinoWebAPwithUSB\\Controllers\\CardsController.cs",
+              "RelativeToolTip": "Controllers\\CardsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T10:52:58.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext .cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ZaroprojectArduinoRFID\\ArduinoWebAPwithUSB\\Context\\ApplicationDbContext .cs",
+              "RelativeDocumentMoniker": "Context\\ApplicationDbContext .cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ZaroprojectArduinoRFID\\ArduinoWebAPwithUSB\\Context\\ApplicationDbContext .cs",
+              "RelativeToolTip": "Context\\ApplicationDbContext .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T10:46:07.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241116111800_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ZaroprojectArduinoRFID\\ArduinoWebAPwithUSB\\Migrations\\20241116111800_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241116111800_Initial.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ZaroprojectArduinoRFID\\ArduinoWebAPwithUSB\\Migrations\\20241116111800_Initial.cs",
+              "RelativeToolTip": "Migrations\\20241116111800_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T11:18:01.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ZaroprojectArduinoRFID\\ArduinoWebAPwithUSB\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ZaroprojectArduinoRFID\\ArduinoWebAPwithUSB\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-16T10:48:09.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241116110418_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ArduinoWebAPwithUSB\\Migrations\\20241116110418_Initial.cs",
+              "RelativeDocumentMoniker": "..\\..\\ArduinoWebAPwithUSB\\Migrations\\20241116110418_Initial.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ArduinoWebAPwithUSB\\Migrations\\20241116110418_Initial.cs",
+              "RelativeToolTip": "..\\..\\ArduinoWebAPwithUSB\\Migrations\\20241116110418_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T11:04:18.454Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

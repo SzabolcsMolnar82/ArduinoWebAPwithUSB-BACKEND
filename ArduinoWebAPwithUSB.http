@@ -1,0 +1,6 @@
+@ArduinoWebAPwithUSB_HostAddress = http://localhost:5090
+
+GET {{ArduinoWebAPwithUSB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
